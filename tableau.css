@@ -1,0 +1,47 @@
+td{
+    font-size: 10%; width:5%; height: 5%;
+    text-align: center;
+}
+.violet{
+  background-color: rgba(75, 55, 94, 0.76);  
+}
+.bleu{
+    background-color: rgba(126, 171, 212, 0.651);
+}
+.vert{
+    background-color:rgba(94, 199, 176, 0.76);
+}
+.olive{
+    background-color: rgba(162, 187, 127, 0.541);
+}
+.jaune{
+    background-color: rgba(228, 238, 170, 0.911);
+}
+.somon{
+    background-color: rgba(224, 208, 134, 0.904);
+}
+.orange{
+    background-color: rgb(235, 207, 174);
+}
+.oran{
+    background-color:rgb(219, 137, 107) ;
+}
+.rouge{
+    background-color:rgba(94, 27, 50, 0.76);
+}
+.rose{
+    background-color: rgba(158, 86, 134, 0.863);
+}
+.blanche{
+    background-color: white;
+}
+.vide{
+    height: 10px;
+}
+.mendeleiv{
+    margin-left:15% ;
+}
+.mende{
+    border-radius: 50%;
+    margin-left: 16%;
+}
